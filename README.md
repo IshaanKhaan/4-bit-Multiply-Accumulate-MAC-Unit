@@ -28,6 +28,10 @@ Example trace (A, B -> accumulated Z_full):
 - 2 x 2 = 4 -> accumulator = 20
 - reset -> accumulator = 0
 
+### Elaborated Schematic
+
+![Schematic](schematic.png)
+
 ## Running the Simulation
 
 Designed and simulated in **Xilinx Vivado**:
